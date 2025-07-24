@@ -1,22 +1,60 @@
-Bismillahirrahmanirrahim.
+# 🎓 Soal Matematika Pertamaku
 
-## 📘 Soal Matematika Pertamaku – Wick Editor Project
+**Aplikasi interaktif pertama saya menggunakan [Wick Editor](https://www.wickeditor.com/)** untuk mengenalkan konsep dasar operasi hitung matematika.
 
-Ini adalah proyek pertama saya yang dibuat menggunakan **Wick Editor**, sebuah platform open-source untuk membuat animasi dan aplikasi interaktif berbasis HTML5.
+🌐 **Live demo**:  
+➡️ [Lihat aplikasi di GitHub Pages](https://teknoalif.github.io/wickeditor-aplikasi-matematika-pertamaku/)
 
-### 🎯 Tujuan
+---
 
-Menyajikan soal matematika sederhana secara **interaktif** untuk melatih siswa dalam memahami **urutan operasi hitung campuran**.
+## 🧠 Tentang Proyek
 
-### 🔍 Fitur
+Aplikasi ini menyajikan soal sederhana:  
+**2 + 1 × 0 = ?**
 
-* Soal interaktif: `2 + 1 × 0 = ?`
-* Jawaban diberikan dengan menekan angka pada keyboard.
-* Sistem akan menampilkan status "benar" atau "salah" sesuai input.
-* Penjelasan konsep disediakan untuk memperkuat pemahaman.
+Pengguna dapat menjawab dengan **menekan angka pada keyboard**, dan aplikasi akan menampilkan:
+- ✅ **Benar** → jika jawaban sesuai
+- ❌ **Salah** → jika jawaban keliru
 
-### 🛠️ Teknologi
+Terdapat juga **penjelasan konsep prioritas operasi matematika** di bawah soal.
 
-* Dibuat dengan: [Wick Editor](https://www.wickeditor.com/)
-* Diekspor sebagai HTML
-* Dipublikasikan melalui: [GitHub Pages](https://teknoalif.github.io/wickeditor-aplikasi-matematika-pertamaku/)
+---
+
+## 🎯 Tujuan Pembelajaran
+- Mengenalkan konsep **operasi campuran** (perkalian lebih dahulu dari penjumlahan).
+- Mendorong siswa untuk berpikir logis dan memperhatikan urutan operasi.
+- Contoh aplikasi edukatif dengan teknologi open source.
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+- [Wick Editor v1.19](https://www.wickeditor.com/)
+- HTML5 (hasil ekspor proyek Wick)
+- Hosting via [GitHub Pages](https://pages.github.com/)
+
+---
+
+## 📁 File yang Tersedia
+| Nama File | Deskripsi |
+|-----------|-----------|
+| `index.html` | File interaktif HTML hasil ekspor dari Wick Editor |
+| `Program Pertama-Kak Alif.wick` | File proyek asli Wick Editor, bisa dibuka & diedit di Wick |
+
+---
+
+## 🚀 Cara Menjalankan Sendiri
+1. Buka [Wick Editor](https://www.wickeditor.com/)
+2. Klik **Open** → pilih file `.wick`
+3. Untuk mengedit atau ekspor ulang, klik **Export → Export as HTML**
+
+---
+
+## 👤 Author
+**@teknoalif**  
+Proyek ini dibuat sebagai eksperimen awal dalam pembelajaran interaktif matematika untuk siswa SD/sederajat.
+
+---
+
+## 📄 Lisensi
+Proyek ini dibagikan untuk keperluan edukasi. Kamu bebas mengadaptasi dengan mencantumkan kredit.
+
